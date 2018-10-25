@@ -1,0 +1,3 @@
+com\uniquelry\crm\domain\Customer.class
+com\uniquelry\crm\dao\impl\CustomerDaoImpl.class
+com\uniquelry\crm\dao\CustomerDao.class
